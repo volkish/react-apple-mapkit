@@ -1,4 +1,4 @@
-import React, { ReactNode, useContext, useEffect, useLayoutEffect, useRef } from 'react'
+import React, { ReactNode, useContext, useEffect, useRef } from 'react'
 import MapContext from '~MapContext'
 
 export default function AppleMap ({ latitude, longitude, children, onReady }: { children?: ReactNode, latitude: number, longitude: number, onReady?: (map: mapkit.Map) => void }) {
