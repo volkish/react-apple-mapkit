@@ -1,0 +1,22 @@
+{
+  "name": "apple-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "@types/node": "^15.6.1",
+    "@types/react": "^17.0.8",
+    "@types/react-dom": "^17.0.5",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
